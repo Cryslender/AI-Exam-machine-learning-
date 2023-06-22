@@ -13,12 +13,12 @@ Each image in the MNIST dataset is a 28x28-pixel square, resulting in a total of
 
 # Which Libraries Used
 The study makes use of Python 3.10 as a language and Google Colab from Google as a tool to develop the ANN model. And the packages used are as follows:
-•	Scikit-Learn: it is a popular and free machine learning library for the Python programming language. (Scikit-learn, 2017)
-•	Numpy:  it is a powerful Python library that provides a multidimensional array object, along with various derived objects like masked arrays and matrices. (Scikit-learn, 2017)
-•	Tensarflow: it is an open-source machine learning framework developed by Google. It is designed to facilitate the development and deployment of machine-learning models
-•	Seaborn: it is a Python data visualization library built on top of matplotlib. It provides a higher-level interface for creating aesthetically pleasing and informative statistical graphics.
-•	Keras: it is an open-source deep learning framework written in Python. Initially developed as a user-friendly interface to build neural networks on top of other deep learning libraries, Keras has gained widespread popularity due to its simplicity and ease of use.
-•	Matplotlib: it is a popular data visualization library for Python. It provides a comprehensive set of tools for creating static, animated, and interactive visualizations in various formats, such as line plots, scatter plots, bar plots, histograms, and 3D plots, among others.
+*	Scikit-Learn: it is a popular and free machine learning library for the Python programming language. (Scikit-learn, 2017)
+*	Numpy:  it is a powerful Python library that provides a multidimensional array object, along with various derived objects like masked arrays and matrices. (Scikit-learn, 2017)
+*	Tensarflow: it is an open-source machine learning framework developed by Google. It is designed to facilitate the development and deployment of machine-learning models
+*	Seaborn: it is a Python data visualization library built on top of matplotlib. It provides a higher-level interface for creating aesthetically pleasing and informative statistical graphics.
+*	Keras: it is an open-source deep learning framework written in Python. Initially developed as a user-friendly interface to build neural networks on top of other deep learning libraries, Keras has gained widespread popularity due to its simplicity and ease of use.
+*	Matplotlib: it is a popular data visualization library for Python. It provides a comprehensive set of tools for creating static, animated, and interactive visualizations in various formats, such as line plots, scatter plots, bar plots, histograms, and 3D plots, among others.
 
 # How to Run the code
 From the submitted document, there is the link to google colab. Inside google colab there are codes and text to make the notebook readable. The code in the notebook should be run in sequential order from the top to the bottom starting from libraries, to datasets, data pre-processing, model design, model training and validation, model testing and evaluation, and confusion matrix. In the notebook, the code is separated using appropriate headings to make the code easily understood. To reiterate, the code results from different model designs, because of different hyper-parameters due to the use of the random search method from the Keras-Tuner. However, the model do predict the exert value of the image even if the code is run how many times will results in high accuracy to show that indeed machine has learned. The following are the steps to run the notebook with provided link:
