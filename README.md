@@ -13,8 +13,8 @@ Each image in the MNIST dataset is a 28x28-pixel square, resulting in a total of
 
 # Which Libraries Used
 The study makes use of Python 3.10 as a language and Google Colab from Google as a tool to develop the ANN model. And the packages used are as follows:
-*	Scikit-Learn: it is a popular and free machine learning library for the Python programming language.[9]
-*	Numpy:  it is a powerful Python library that provides a multidimensional array object, along with various derived objects like masked arrays and matrices. [9]
+*	Scikit-Learn: it is a popular and free machine learning library for the Python programming language.[6]
+*	Numpy:  it is a powerful Python library that provides a multidimensional array object, along with various derived objects like masked arrays and matrices. [6]
 *	Tensarflow: it is an open-source machine learning framework developed by Google. It is designed to facilitate the development and deployment of machine-learning models.[2]
 *	Seaborn: it is a Python data visualization library built on top of matplotlib. It provides a higher-level interface for creating aesthetically pleasing and informative statistical graphics.[3]
 *	Keras: it is an open-source deep learning framework written in Python. Initially developed as a user-friendly interface to build neural networks on top of other deep learning libraries, Keras has gained widespread popularity due to its simplicity and ease of use.[4]
