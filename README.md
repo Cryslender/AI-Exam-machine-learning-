@@ -33,7 +33,7 @@ From the submitted document, there is the link to google colab. Inside google co
 * Review and Modify: Once the notebook starts running, you can review the output and modify the code or input data as needed. You can also add new code cells or text cells to make annotations or further analysis.
 
 # Or
-The shortest way is that just make sure you have signed In to google colab, so you can just copy the link provided past to any web browser and run the code in a sequential manner.
+The shortest way is that just make sure you have signed In to google colab, so you can just copy the link provided and paste it to a web browser that you signed in with google colab and run the code in a sequential manner.
 
 # Reference 
 1.	https://keras.io/guides/keras_tuner/getting_started/
