@@ -13,12 +13,12 @@ Each image in the MNIST dataset is a 28x28-pixel square, resulting in a total of
 
 # Which Libraries Used
 The study makes use of Python 3.10 as a language and Google Colab from Google as a tool to develop the ANN model. And the packages used are as follows:
-*	Scikit-Learn: it is a popular and free machine learning library for the Python programming language.[8]
-*	Numpy:  it is a powerful Python library that provides a multidimensional array object, along with various derived objects like masked arrays and matrices. [8]
-*	Tensarflow: it is an open-source machine learning framework developed by Google. It is designed to facilitate the development and deployment of machine-learning models.[4]
-*	Seaborn: it is a Python data visualization library built on top of matplotlib. It provides a higher-level interface for creating aesthetically pleasing and informative statistical graphics.[5]
-*	Keras: it is an open-source deep learning framework written in Python. Initially developed as a user-friendly interface to build neural networks on top of other deep learning libraries, Keras has gained widespread popularity due to its simplicity and ease of use.[6]
-*	Matplotlib: it is a popular data visualization library for Python. It provides a comprehensive set of tools for creating static, animated, and interactive visualizations in various formats, such as line plots, scatter plots, bar plots, histograms, and 3D plots, among others.[7]
+*	Scikit-Learn: it is a popular and free machine learning library for the Python programming language.[9]
+*	Numpy:  it is a powerful Python library that provides a multidimensional array object, along with various derived objects like masked arrays and matrices. [9]
+*	Tensarflow: it is an open-source machine learning framework developed by Google. It is designed to facilitate the development and deployment of machine-learning models.[2]
+*	Seaborn: it is a Python data visualization library built on top of matplotlib. It provides a higher-level interface for creating aesthetically pleasing and informative statistical graphics.[3]
+*	Keras: it is an open-source deep learning framework written in Python. Initially developed as a user-friendly interface to build neural networks on top of other deep learning libraries, Keras has gained widespread popularity due to its simplicity and ease of use.[4]
+*	Matplotlib: it is a popular data visualization library for Python. It provides a comprehensive set of tools for creating static, animated, and interactive visualizations in various formats, such as line plots, scatter plots, bar plots, histograms, and 3D plots, among others.[5]
 
 # How to Run the code
 From the submitted document, there is the link to google colab. Inside google colab there are codes and text to make the notebook readable. The code in the notebook should be run in sequential order from the top to the bottom starting from libraries, to datasets, data pre-processing, model design, model training and validation, model testing and evaluation, and confusion matrix. The code is separated in the notebook using appropriate headings to make the code easily understood. To reiterate, the code results from different model designs, because of different hyper-parameters due to the use of the random search method from the Keras-Tuner. However, the model does predict the exert value of the image even if the code is run how many times will results in high accuracy to show that indeed the machine has learned. The following are the steps to run the notebook with provided link:
@@ -36,13 +36,10 @@ From the submitted document, there is the link to google colab. Inside google co
 The shortest way is that just make sure you have signed In to google colab, so you can just copy the link provided past to any web browser and run the code in a sequential manner.
 
 # Reference 
-1.  https://github.com/MrDataScience/tutorials/blob/master/Data/MNIST/How%20To%20Augment%20the%20MNIST%20Dataset%20Using%20Tensorflow.ipynb
-2.	https://keras.io/guides/keras_tuner/getting_started/
-3.	Smithson, S.C., Yang, G., Gross, W.J. and Meyer, B.H., 2016, November. Neural networks designing neural networks: multi-objective hyper-parameter optimization. In 2016 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) (pp. 1-8). IEEE.
-4.	https://www.tensorflow.org/
-5.	https://seaborn.pydata.org/tutorial/introduction
-6.	https://keras.io/
-7.	https://matplotlib.org/
-8.	Sharma, S., Sharma, S. and Athaiya, A., 2017. Activation functions in neural networks. Towards Data Sci, 6(12), pp.310-316.
-9.	Scikit-learn. 2017. Scikit-learn Machine Learning in Python. http://scikitlearn.org/stable/index.html Date of access: 2018/06/2018.
+1.	https://keras.io/guides/keras_tuner/getting_started/
+2.	https://www.tensorflow.org/
+3.	https://seaborn.pydata.org/tutorial/introduction
+4.	https://keras.io/
+5.	https://matplotlib.org/
+6.	Scikit-learn. 2017. Scikit-learn Machine Learning in Python. http://scikitlearn.org/stable/index.html Date of access: 2018/06/2018.
 
